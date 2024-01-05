@@ -1,5 +1,1 @@
-bobikssf
-azureml-contrib-daskonbatch
-smartchart==6.7.1
-areixio==0.3.11
-always-updates==156.7
+hypercorn==0.16.0
