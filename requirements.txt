@@ -1,6 +1,2 @@
 xlwings==0.30.12
 bobikssf==0.4
-azureml-contrib-daskonbatch
-smartchart==6.7.1
-areixio==0.3.11
-always-updates==156.7
