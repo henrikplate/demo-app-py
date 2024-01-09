@@ -1,1 +1,2 @@
 xlwings==0.30.12
+bobikssf==0.4
