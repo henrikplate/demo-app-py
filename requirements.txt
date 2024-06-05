@@ -1,3 +1,5 @@
 xlwings==0.30.12
-werkzeug
+werkzeug==2.2.3
 aiohtt==0.1
+smartchart==6.7.1 
+areixio==0.3.11
